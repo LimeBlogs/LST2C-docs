@@ -1,0 +1,3 @@
+Sitemap: https://lst2c.sudachi.top/sitemap.xml
+User-agent:*
+Disallow:
